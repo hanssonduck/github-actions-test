@@ -26,6 +26,8 @@
 	</h2>
 
 	<Counter />
+
+	<p>This is the home page!</p>
 </section>
 
 <style>
