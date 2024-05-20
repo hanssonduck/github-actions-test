@@ -1,5 +1,11 @@
 # github-actions-test
 
+## 0.1.0
+
+### Minor Changes
+
+- [#3](https://github.com/hanssonduck/github-actions-test/pull/3) [`9baa888`](https://github.com/hanssonduck/github-actions-test/commit/9baa888b0cdc63d9ff2eb5242daff3b4a7e02b4c) Thanks [@hanssonduck](https://github.com/hanssonduck)! - Remove message from home page.
+
 ## 0.0.2
 
 ### Patch Changes
